@@ -12,3 +12,4 @@ Connect jumper wires on mini breadboard (both on 5V):
 ![image](https://user-images.githubusercontent.com/493741/158905022-e630a85b-c96c-48a4-bf7e-05835f2802c3.png)
 ![image](https://user-images.githubusercontent.com/493741/158905070-fe12307f-c9b0-4e82-b145-227535b9ba78.png)
 ![image](https://user-images.githubusercontent.com/493741/158905214-a718f023-bf45-4fd8-b416-b4149c7270d2.png)
+![image](https://user-images.githubusercontent.com/493741/158909079-f1c0595b-ac21-4b6f-bb29-be2c50385c56.png)
