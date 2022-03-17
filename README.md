@@ -1,5 +1,5 @@
 # esp-distance-sensor
-Ultrasonic distance sensor (HC-SR04) and LCD (TM1637) on a Wemos D1 mini
+Ultrasonic distance sensor (HC-SR04) and 4-digit 7-segment LED display (TM1637) on a Wemos D1 mini.
 
 Install the following Arduino libraries:
 - [HCSR04](https://github.com/Martinsos/arduino-lib-hc-sr04)
