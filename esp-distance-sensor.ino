@@ -7,7 +7,7 @@
 UltraSonicDistanceSensor distanceSensor(TRIG, ECHO);
 
 
-#include <TM1637TinyDisplay.h> // https://github.com/jasonacox/TM1637TinyDisplay
+#include <TM1637TinyDisplay.h> // 4-digit 7-segment LCD display; https://github.com/jasonacox/TM1637TinyDisplay - see example TM1637Demo for animations and linked web tool for creating them.
 // alternatives:
 // https://github.com/bremme/arduino-tm1637 SevenSegmentTM1637 does not compile for arch ESP8266
 // https://github.com/avishorp/TM1637 too basic, only has function to display decimal number, no scrolling text, animations etc.
